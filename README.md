@@ -26,8 +26,8 @@ IG21/
 │   ├── system_architecture.jpeg
 │   ├── offline_sync_flow.jpeg
 │   └── leakage_detection_logic.jpeg
-├── Results/
-│   ├── water_usage_trends.jpeg
+├── Result/
+│   ├── before_after.jpeg
 └── Video/
     └── MP_DEMO.mp4
 ```
@@ -36,7 +36,7 @@ IG21/
 
 ### _1. Improved Data Reliability — Before & After_
 
-![Before After](Results/before_after.png)
+![Before After](Result/before_after.jpeg)
 
 This illustrates how the designed offline buffering and sync logic eliminated missing data intervals and ensured continuous, ordered, and reliable data availability.
 
